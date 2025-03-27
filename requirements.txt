@@ -2,3 +2,8 @@ langchain
 openai
 weaviate-client
 apscheduler
+selenium
+sentence-transformers
+undetected-chromedriver 
+flask
+python-dotenv
